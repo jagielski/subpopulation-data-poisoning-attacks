@@ -1,0 +1,11 @@
+jupyter==1.0.0
+numpy==1.16.1
+pandas==1.0.1
+scikit-learn==0.22.1
+scipy==1.4.1
+seaborn==0.10.0
+torch==1.4.0
+torchvision==0.5.0
+tqdm==4.43.0
+transformers==2.5.0
+tables==3.6.1
